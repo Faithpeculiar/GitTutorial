@@ -1,0 +1,2 @@
+if you want to create a repository you must make sure that you have an internet connection(either by wifi or normal data), then you open your chrome and search on github.com,when you have entered into the github, its either you log-in(that is if you already have an account) or u sign up(that is creating a new account.
+when you open your github you would see a plus(+) sign at the top right edge thepage, click on it to see many options, then click on new repository,fill in yourname and scroll down if there is need to add a README then add.Click on create repository to create.
